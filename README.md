@@ -1,3 +1,3 @@
 # adrian-test-1
-A quick text project
-Sean's chnges
+A quick text project from adrian
+Sean's changes.
