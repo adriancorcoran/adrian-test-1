@@ -1,2 +1,2 @@
 # adrian-test-1
-A QUICK TEXT PROJECT
+A quick text project
